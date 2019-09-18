@@ -2,14 +2,14 @@
 
 # #################################################
 # Script:       bumblebee_fix.sh                  #
-# Version:      0.1a                              #
-# Author:       kwh                         #
+# Version:                                        #
+# Author:       kwh                               #
 # Date:         Sep 18, 2019                      #
 # Usage:        bumblebee_fix <driver-number>     #
 # Description:  Bash script to patch bumblebee    #
 #               and nvidia driver                 #
 # Dependencies: bumblebee-nvidia nvidia-xxx       #
-# Platform:     Deepin (tested for Xenial x64)    #
+# Platform:     Deepin (tested for DELL x64)    #
 # #################################################
 
 print_usage() {
