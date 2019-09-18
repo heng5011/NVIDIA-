@@ -9,7 +9,7 @@
 # Description:  Bash script to patch bumblebee    #
 #               and nvidia driver                 #
 # Dependencies: bumblebee-nvidia nvidia-xxx       #
-# Platform:     Deepin (tested for DELL x64)    #
+# Platform:     Deepin (tested for DELL x64)      #
 # #################################################
 
 print_usage() {
